@@ -1,1 +1,2 @@
-The webinar model cannot work with this package, It is just copied from a project, which you will need to refactor to match your project.
+- This project allows to create zoom groups for your instructors that are registered in your zoom account.
+- The webinar model cannot work with this package, It is just copied from a project, which you will need to refactor to match your project.
